@@ -1,0 +1,4 @@
+D:\VisualStudio\Lab_7_Work_4\Lab_7_Work_4\obj\Debug\net6.0\Lab_7_Work_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Lab_7_Work_4\Lab_7_Work_4\obj\Debug\net6.0\Lab_7_Work_4.AssemblyInfoInputs.cache
+D:\VisualStudio\Lab_7_Work_4\Lab_7_Work_4\obj\Debug\net6.0\Lab_7_Work_4.AssemblyInfo.cs
+D:\VisualStudio\Lab_7_Work_4\Lab_7_Work_4\obj\Debug\net6.0\Lab_7_Work_4.csproj.CoreCompileInputs.cache
